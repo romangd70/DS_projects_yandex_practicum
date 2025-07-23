@@ -56,4 +56,4 @@
 ###Шаг 8. Вывод
 
 ## Используемые инструменты
-scipy, numpy, pandas, matplotlib
+scipy, numpy, pandas, matplotlib, seaborn
