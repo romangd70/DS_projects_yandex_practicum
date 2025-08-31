@@ -26,6 +26,6 @@
 Резюмирование полученных результатов, формулировка ключевых выводов и рекомендаций.
 
 ## Используемые инструменты
-scipy, numpy, pandas, matplotlib, seaborn
+scipy, numpy, pandas, matplotlib, seaborn, phik
 ## Используемые модели
 LinearRegression, LogisticRegression
