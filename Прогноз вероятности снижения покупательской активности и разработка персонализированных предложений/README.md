@@ -38,7 +38,7 @@ Cтатистический анализ всех признаков
 Резюмирование полученных результатов, формулировка ключевых выводов и рекомендаций.
 
 ## Используемые инструменты
-scipy, numpy, pandas, matplotlib, seaborn, phik
+numpy, pandas, matplotlib, seaborn, phik
 
 ## Используемые модели
 DecisionTreeClassifier, KNeighborsClassifier, LogisticRegression, SVC
