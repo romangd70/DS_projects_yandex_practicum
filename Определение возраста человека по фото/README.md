@@ -13,4 +13,4 @@
 Резюмирование полученных результатов
 
 ## Используемые инструменты
-tensorflow, pandas, seaborn, matplotlib
+keras, pandas, seaborn, matplotlib
